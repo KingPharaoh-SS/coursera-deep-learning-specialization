@@ -1,6 +1,6 @@
 # deeplearning.ai : PERSONAL NOTES
 This Repository is solely made for quick reference to the assignments completed during my [Deep Learning specialization](https://www.coursera.org/specializations/deep-learning) offered by `deeplearning.ai`. All Credits to Instructor: [Andrew Ng](http://www.andrewng.org/).
-  - Proof of Accomplishment
+  - [Proof of Accomplishment](https://www.coursera.org/account/accomplishments/specialization/certificate/6XK2GR24XA43)
 
 ## Cloning Instructions
 
